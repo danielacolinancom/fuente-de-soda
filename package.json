@@ -1,0 +1,23 @@
+{
+  "name": "fuente-de-soda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielacolinancom/fuente-de-soda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielacolinancom/fuente-de-soda/issues"
+  },
+  "homepage": "https://github.com/danielacolinancom/fuente-de-soda#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "jquery": "^3.6.0"
+  }
+}
